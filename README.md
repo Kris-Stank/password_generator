@@ -18,10 +18,12 @@
    ```bash
    git clone https://github.com/Kris-Stank/password_generator
 ```
+
 2. Перейдите в директорию с проектом:
-``` bash
-cd password-generator
+   ```bash
+   cd password-generator
 ```
+
 3. Запустите программу:
 ```bash
 python password_generator.py
