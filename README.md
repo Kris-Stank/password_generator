@@ -21,7 +21,7 @@
 
 2. Перейдите в директорию с проектом:
    ```bash
-   cd password-generator
+   cd password_generator
 ```
 
 3. Запустите программу:
